@@ -28,19 +28,18 @@ Ensure the following are installed:
 ### 1. Clone the Repository  
 ```bash  
 git clone https://github.com/dc-hector/CISC3003-Project-Individual-DC127992.git  
-cd CISC3003-Project-Individual-DC127992  
-2. Configure XAMPP
+cd CISC3003-Project-Individual-DC127992
+```
+### 2. Configure XAMPP
 Start XAMPP Control Panel.
 
 Launch Apache and MySQL services.
 
-3. Deploy Project Files
+### 3. Deploy Project Files
 Move the project folder to XAMPP's htdocs directory:
 
 C:\xampp\htdocs\CISC3003-Project-Individual-DC127992  
-### 2. 📂 Place Files in the XAMPP Directory
-Copy the project folder (CISC3003-ProjectAssignment-IndividualWork-DC226696) to the htdocs directory of your XAMPP installation:
-Windows: C:\xampp\htdocs\
+
 ### 4. 🗄️ Import the Database
 Open your browser and navigate to phpMyAdmin.
 Create a new database (e.g., shop_db).
